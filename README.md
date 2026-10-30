@@ -49,6 +49,10 @@ flutter run
 
 <img width="1910" height="895" alt="Screenshot 2026-10-30 214437" src="https://github.com/user-attachments/assets/08d25951-166f-4378-b836-3857d5109693" />
 
+<img width="1691" height="862" alt="Screenshot 2026-10-30 214728" src="https://github.com/user-attachments/assets/2c617494-e24d-499f-b173-9094e7fee37c" />
+
+<img width="1902" height="591" alt="Screenshot 2026-10-30 214818" src="https://github.com/user-attachments/assets/f452c8c5-4f15-4e34-bd93-9e8836a335ad" />
+
 
 ---
 
