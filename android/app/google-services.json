@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091965896832",
+    "project_id": "daydots-62d5a",
+    "storage_bucket": "daydots-62d5a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091965896832:android:110b266ded74a22a657e65",
+        "android_client_info": {
+          "package_name": "com.example.daydots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQOGu9hpK56VEC7h96Opx0LxMLIVgl9e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
