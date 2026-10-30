@@ -45,6 +45,10 @@ flutter pub get
 flutter run
 ```
 
+## Screenshots
+
+<img width="1910" height="895" alt="Screenshot 2026-10-30 214437" src="https://github.com/user-attachments/assets/08d25951-166f-4378-b836-3857d5109693" />
+
 
 ---
 
