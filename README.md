@@ -4,7 +4,7 @@ DayDots is an accessibility-focused task management application designed to help
 Built around simplicity, structure, and supportive cues, DayDots helps users break down their day into manageable tasks, track progress, and reduce overwhelm through clear visual design and routine-based planning.
 
 ## Why DayDots?
-Many people struggle with planning, memory, and task follow-through—not because they lack ability, but because traditional task managers are too complex, cluttered, or cognitively demanding.
+Many people struggle with planning, memory, and task follow-through, not because they lack ability, but because traditional task managers are too complex, cluttered, or cognitively demanding.
 
 DayDots was designed to address that challenge by making daily planning:
 - clear and low-stress
@@ -45,9 +45,6 @@ flutter pub get
 flutter run
 ```
 
-## License
-
-This project is licensed under the terms of the repository’s chosen license. Please review the license file before use or distribution.
 
 ---
 
